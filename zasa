@@ -1,0 +1,40 @@
+while true do
+
+game.Lighting.FogEnd = 1000 -- Make sure you change the fog colour to something suitable, like White or Dark brown. To change it go to Lighting>FogColor and pick colour!
+wait(500) --Change this to how often a sandstorm appears
+game.Lighting.FogEnd = 900
+wait(0.3)
+game.Lighting.FogEnd = 800
+wait(0.3)
+game.Lighting.FogEnd = 700
+wait(0.3)
+game.Lighting.FogEnd = 600
+wait(0.3)
+game.Lighting.FogEnd = 500
+wait(0.3)
+game.Lighting.FogEnd = 400
+wait(0.3)
+game.Lighting.FogEnd = 300
+wait(0.3)
+game.Lighting.FogEnd = 200
+wait(0.3)
+game.Lighting.FogEnd = 100
+wait(100) -- Change this to how long the sandstorm lasts
+game.Lighting.FogEnd = 200
+wait(0.3)
+game.Lighting.FogEnd = 300
+wait(0.3)
+game.Lighting.FogEnd = 400
+wait(0.3)
+game.Lighting.FogEnd = 500
+wait(0.3)
+game.Lighting.FogEnd = 600
+wait(0.3)
+game.Lighting.FogEnd = 700
+wait(0.3)
+game.Lighting.FogEnd = 800
+wait(0.3)
+game.Lighting.FogEnd = 900
+wait(0.3)
+
+end 
